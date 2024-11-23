@@ -6,7 +6,7 @@ A repo where I try to speedrun learncpp.
 
 Basic syntax and language features.
 
-- [ ] Introduction / Getting Started
+- [x] Introduction / Getting Started
 - [ ] C++ Basics
 - [ ] C++ Basics: Functions and Files
 - [ ] Debugging C++ Programs
