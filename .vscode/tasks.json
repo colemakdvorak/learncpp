@@ -13,7 +13,7 @@
                 "-pedantic-errors",
                 "${file}",
                 "-o",
-                "${fileDirname}/${fileBasenameNoExtension}"
+                "${fileDirname}/compiled/${fileBasenameNoExtension}"
             ],
             "options": {
                 "cwd": "${fileDirname}"
