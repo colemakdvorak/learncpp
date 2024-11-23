@@ -11,7 +11,8 @@
                 //"-O2", // Release
                 //"-DNDEBUG",
                 "-pedantic-errors",
-                "-Werror",
+                "-Werror", // Warnings -> Errors
+                "-std=c++20", // Language standard
                 "${file}",
                 "-o",
                 "${fileDirname}/compiled/${fileBasenameNoExtension}"
