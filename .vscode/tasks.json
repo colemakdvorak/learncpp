@@ -13,6 +13,7 @@
                 "-pedantic-errors",
                 "-Werror", // Warnings -> Errors
                 "-std=c++20", // Language standard
+                "-I${workspaceFolder}/include",
                 "${file}",
                 "02_multifile_sep.cpp",
                 "-o",
