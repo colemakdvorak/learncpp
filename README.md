@@ -9,7 +9,7 @@ Basic syntax and language features.
 - [x] Introduction / Getting Started
 - [x] C++ Basics
 - [x] C++ Basics: Functions and Files
-- [ ] Debugging C++ Programs
+- [x] Debugging C++ Programs
 - [ ] Fundamental Data Types
 - [ ] Constants and Strings
 - [ ] Operators
