@@ -10,7 +10,7 @@ Basic syntax and language features.
 - [x] C++ Basics
 - [x] C++ Basics: Functions and Files
 - [x] Debugging C++ Programs
-- [ ] Fundamental Data Types
+- [x] Fundamental Data Types
 - [ ] Constants and Strings
 - [ ] Operators
 - [ ] Bit Manipulation (optional chapter)
