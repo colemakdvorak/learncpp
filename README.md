@@ -11,10 +11,10 @@ Basic syntax and language features.
 - [x] C++ Basics: Functions and Files
 - [x] Debugging C++ Programs
 - [x] Fundamental Data Types
-- [ ] Constants and Strings
-- [ ] Operators
-- [ ] Bit Manipulation (optional chapter)
-- [ ] Scope, Duration, and Linkage
+- [x] Constants and Strings
+- [x] Operators
+- [x] Bit Manipulation (optional chapter)
+- [x] Scope, Duration, and Linkage
 - [ ] Control Flow
 - [ ] Error Detection and Handling
 - [ ] Type Conversion, Type Aliases, and Type Deduction
