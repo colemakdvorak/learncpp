@@ -49,6 +49,25 @@
         "ctime": "cpp",
         "set": "cpp",
         "iomanip": "cpp",
-        "sstream": "cpp"
+        "sstream": "cpp",
+        "bitset": "cpp",
+        "__bit_reference": "cpp",
+        "__locale": "cpp",
+        "__verbose_abort": "cpp",
+        "ios": "cpp",
+        "locale": "cpp",
+        "mutex": "cpp",
+        "print": "cpp",
+        "__hash_table": "cpp",
+        "__node_handle": "cpp",
+        "__split_buffer": "cpp",
+        "__tree": "cpp",
+        "complex": "cpp",
+        "execution": "cpp",
+        "optional": "cpp",
+        "queue": "cpp",
+        "ratio": "cpp",
+        "stack": "cpp",
+        "variant": "cpp"
     }
 }
